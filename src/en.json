@@ -1,0 +1,9 @@
+{
+    "translation": {
+        "hello": "Hello",
+        "thisLineIsTranslated": "This line is translated",
+        "selectLanguage": "Select Language",
+        "loginPage": "Login Page",
+        "registerPage": "Register Page"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "translation": {
+        "hello": "नमस्ते",
+        "thisLineIsTranslated": "यह पंक्ति अनुवादित है",
+        "selectLanguage": "भाषा चुने",
+        "loginPage": "लोग इन वाला पन्ना",
+        "registerPage": "रजिस्टर पृष्ठ"
+    }
+}
